@@ -1,3 +1,4 @@
+// main.js
 import { fetchImg } from './js/pixabay-api.js';
 import { renderCard, showErrorMessage, showLoadingIndicator, hideLoadingIndicator } from './js/render-functions.js';
 
